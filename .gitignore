@@ -1,0 +1,8 @@
+#路径
+/.idea/
+/.vscode/
+.gitattributes
+
+#匹配
+*.log
+*.txt
